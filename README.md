@@ -1,2 +1,4 @@
 # predict_mlb
-Predict the probability of advanced to playoff for MLB teams
+
+##Let's predict the major league baseball team's odds for playoff.
+
