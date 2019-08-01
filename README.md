@@ -9,4 +9,6 @@ And there are API that provides get some stats of MLB with Python. You need to i
 
 Based on the Hitting, Pitching, and Fielding stats for division winners of the last 10 years,  let's try to make a machine learning model with classification methods. (Logistic Regression)
 
-With this model, let's figure out which team is going to be advanced to the playoff.
+With this model, let's figure out which team is going to advance to the playoff.
+
+If you just want to get the data set, you can find it [here](https://github.com/Teosoft7/predict_mlb/blob/master/mlb_stats/mlb_stading.csv)
